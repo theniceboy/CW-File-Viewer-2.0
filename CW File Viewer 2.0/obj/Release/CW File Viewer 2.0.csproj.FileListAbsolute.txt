@@ -1,0 +1,26 @@
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\CW File Viewer 2.0.exe.config
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\Interop.BaiducnAxLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\Interop.MIMEEDIT.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\Interop.UploadPluginLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\Interop.WMPLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\Interop.XtremeSkinFramework.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\AxInterop.BaiducnAxLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\AxInterop.UploadPluginLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\AxInterop.WMPLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\AxInterop.XtremeSkinFramework.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\CW File Viewer 2.0.csproj.ResolveComReference.cache
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\CW File Viewer 2.0.exe
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\CW File Viewer 2.0.pdb
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\Interop.BaiducnAxLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\Interop.UploadPluginLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\Interop.WMPLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\Interop.XtremeSkinFramework.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\AxInterop.BaiducnAxLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\AxInterop.UploadPluginLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\AxInterop.WMPLib.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\bin\Release\AxInterop.XtremeSkinFramework.dll
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\CW_File_Viewer_2._0.Form1.resources
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\CW_File_Viewer_2._0.Properties.Resources.resources
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\CW File Viewer 2.0.csproj.GenerateResource.Cache
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\CW File Viewer 2.0.exe
+C:\360云盘\Visual Studio 2012\CW File Viewer\CW File Viewer 2.0\CW File Viewer 2.0\obj\Release\CW File Viewer 2.0.pdb
